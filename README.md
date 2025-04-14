@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arib-solutions&label=Profile%20views&color=0e75b6&style=flat" alt="arib-solutions" /> </p>
 
-- 🌱 I’m currently learning in Artificial Intelligence (Machine Learning & Deep Learning). **Artificial Intelligence**
+- 🌱 I’m currently learning in Artificial Intelligence (Machine Learning & Deep Learning). 
 
 - 💬 Ask me about **Machine Learning & Deep Learning**
 
